@@ -28,4 +28,4 @@ Tools
 
  测试
  测试类在文件中,针对4个方法进行了十余种测试样例的测试
- ![image](src\image\test.png)
+ ![image](src/image/test.png)
