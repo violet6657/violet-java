@@ -24,9 +24,9 @@ Tools
 6.4 choose
 通过分析 input.txt 的命令确认应该调用什么方法，同时保证了需求文档中的错误命令处理。
 6.5、6.6、6.7 为了节省空间创建的工具方法，很实用。
- ![](link "work2\violet6657\流程示意图.jpg")
+ ![](link "violet6657\流程示意图.jpg")
 
 
  测试
  测试类在文件中,针对4个方法进行了十余种测试样例的测试
- ![](link "work2\violet6657\test.png")
+ ![](link "violet6657\test.png")
